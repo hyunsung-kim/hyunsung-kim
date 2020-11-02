@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Superb AI engineer.
+- 🌱 I’m currently learning EKS and Machine Learning!
+
 <!--
 **hyunsung-kim/hyunsung-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
